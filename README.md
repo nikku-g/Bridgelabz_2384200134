@@ -62,4 +62,8 @@
 07-02-2025
 
 	1. Inheritance (Single, Multilevel, Hierarchical)
-	2. Key feature of Inheritance
+	2. Key feature of Inheritance.
+---------------------------------------------------------------------------------------------------------------------
+08-02-2025
+
+	1. Practice Assignment on Inheritance.
