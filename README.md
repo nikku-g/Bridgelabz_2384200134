@@ -67,3 +67,10 @@
 08-02-2025
 
 	1. Practice Assignment on Inheritance.
+---------------------------------------------------------------------------------------------------------------------
+10-02-2025
+
+	1. Encapsulation in C# 
+	2. Polymorphism in C#
+	3. Interface and Abstract Class
+	3. Problem Statements (Encapsulation, Polymorphism, Interface and Abstract Class)
