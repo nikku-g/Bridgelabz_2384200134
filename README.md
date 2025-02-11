@@ -74,3 +74,10 @@
 	2. Polymorphism in C#
 	3. Interface and Abstract Class
 	3. Problem Statements (Encapsulation, Polymorphism, Interface and Abstract Class)
+--------------------------------------------------------------------------------------------------------------------
+11-02-2025
+
+	1. Introduction of Data Structures.
+	2. Types of Data Structures in C#.
+	3. Single Linked List, Double Linked List, Circular Linked List.
+	4. Practice Problems on LinkedList Concept.
