@@ -81,10 +81,18 @@
 	2. Types of Data Structures in C#.
 	3. Single Linked List, Double Linked List, Circular Linked List.
 	4. Practice Problems on LinkedList Concept.
----------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 13-02-2025
 
 	1. Introduction to Stack and Queue.
 	2. HashMap and Hashing Function
 	3. Practice Problems on Stack, Queue and HashMap.
------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
+14-02-2025
+	1. Introduction to Sorting algorithms.
+	   - Bubble Sort
+	   - Insertion Sort
+	   - Merge Sort
+	   - Quick Sort
+	2. Practice Problems on Sorting algorithms.
+--------------------------------------------------------------------------------------------------------------------
