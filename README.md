@@ -89,10 +89,23 @@
 	3. Practice Problems on Stack, Queue and HashMap.
 ---------------------------------------------------------------------------------------------------------------------
 14-02-2025
+
 	1. Introduction to Sorting algorithms.
 	   - Bubble Sort
 	   - Insertion Sort
 	   - Merge Sort
 	   - Quick Sort
 	2. Practice Problems on Sorting algorithms.
+--------------------------------------------------------------------------------------------------------------------
+15-02-2025
+
+	1. Introduction to StringBuilder StringBuffer, FileReader, InputStreamReader
+	2. Searching (Linear and Binary search)
+	3. Practice Problems.
+--------------------------------------------------------------------------------------------------------------------
+17-02-2025
+
+	1. Introduction to General algorithms.
+	2. Complexity (Time and space Complexity)
+	3. Practice Problems.
 --------------------------------------------------------------------------------------------------------------------
