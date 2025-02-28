@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BusinesslayerBL/1.0.0": {
+        "dependencies": {
+          "Reposatorylayer": "1.0.0"
+        },
+        "runtime": {
+          "BusinesslayerBL.dll": {}
+        }
+      },
+      "Reposatorylayer/1.0.0": {
+        "runtime": {
+          "Reposatorylayer.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BusinesslayerBL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Reposatorylayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

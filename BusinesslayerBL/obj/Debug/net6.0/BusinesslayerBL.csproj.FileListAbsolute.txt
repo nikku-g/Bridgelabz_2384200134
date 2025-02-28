@@ -1,0 +1,15 @@
+C:\Users\NIKHIL PRATAP\Desktop\training\04-02-2025\BusinesslayerBL\bin\Debug\net6.0\BusinesslayerBL.deps.json
+C:\Users\NIKHIL PRATAP\Desktop\training\04-02-2025\BusinesslayerBL\bin\Debug\net6.0\BusinesslayerBL.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\04-02-2025\BusinesslayerBL\bin\Debug\net6.0\BusinesslayerBL.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\04-02-2025\BusinesslayerBL\bin\Debug\net6.0\Reposatorylayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\04-02-2025\BusinesslayerBL\bin\Debug\net6.0\Reposatorylayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\04-02-2025\BusinesslayerBL\obj\Debug\net6.0\BusinesslayerBL.csproj.AssemblyReference.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\04-02-2025\BusinesslayerBL\obj\Debug\net6.0\BusinesslayerBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIKHIL PRATAP\Desktop\training\04-02-2025\BusinesslayerBL\obj\Debug\net6.0\BusinesslayerBL.AssemblyInfoInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\04-02-2025\BusinesslayerBL\obj\Debug\net6.0\BusinesslayerBL.AssemblyInfo.cs
+C:\Users\NIKHIL PRATAP\Desktop\training\04-02-2025\BusinesslayerBL\obj\Debug\net6.0\BusinesslayerBL.csproj.CoreCompileInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\04-02-2025\BusinesslayerBL\obj\Debug\net6.0\Business.88B1CBDB.Up2Date
+C:\Users\NIKHIL PRATAP\Desktop\training\04-02-2025\BusinesslayerBL\obj\Debug\net6.0\BusinesslayerBL.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\04-02-2025\BusinesslayerBL\obj\Debug\net6.0\refint\BusinesslayerBL.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\04-02-2025\BusinesslayerBL\obj\Debug\net6.0\BusinesslayerBL.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\04-02-2025\BusinesslayerBL\obj\Debug\net6.0\ref\BusinesslayerBL.dll

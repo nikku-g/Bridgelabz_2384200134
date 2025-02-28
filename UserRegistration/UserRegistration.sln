@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserRegistration", "UserRegistration.csproj", "{F5B83C64-B3C3-48B0-8C7C-4828F100A989}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinesslayerBL", "..\BusinesslayerBL\BusinesslayerBL.csproj", "{67DC9A2A-C089-4E2E-82D7-22FC58050B96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reposatorylayer", "..\Reposatorylayer\Reposatorylayer.csproj", "{A4A2C979-F7FB-4863-936C-9E2DE709DE46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5B83C64-B3C3-48B0-8C7C-4828F100A989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B83C64-B3C3-48B0-8C7C-4828F100A989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B83C64-B3C3-48B0-8C7C-4828F100A989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B83C64-B3C3-48B0-8C7C-4828F100A989}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67DC9A2A-C089-4E2E-82D7-22FC58050B96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67DC9A2A-C089-4E2E-82D7-22FC58050B96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67DC9A2A-C089-4E2E-82D7-22FC58050B96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67DC9A2A-C089-4E2E-82D7-22FC58050B96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4A2C979-F7FB-4863-936C-9E2DE709DE46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4A2C979-F7FB-4863-936C-9E2DE709DE46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4A2C979-F7FB-4863-936C-9E2DE709DE46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4A2C979-F7FB-4863-936C-9E2DE709DE46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
