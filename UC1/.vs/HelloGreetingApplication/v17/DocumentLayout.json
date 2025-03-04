@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NIKHIL PRATAP\\Desktop\\training\\pro\\UC1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2A853B-7394-4E4C-8557-ECD60DBB4F66}|ReposatoryLayer\\ReposatoryLayer.csproj|c:\\users\\nikhil pratap\\desktop\\training\\pro\\uc1\\reposatorylayer\\interface\\igreetingrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE2A853B-7394-4E4C-8557-ECD60DBB4F66}|ReposatoryLayer\\ReposatoryLayer.csproj|solutionrelative:reposatorylayer\\interface\\igreetingrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2A853B-7394-4E4C-8557-ECD60DBB4F66}|ReposatoryLayer\\ReposatoryLayer.csproj|c:\\users\\nikhil pratap\\desktop\\training\\pro\\uc1\\reposatorylayer\\reposatorylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DE2A853B-7394-4E4C-8557-ECD60DBB4F66}|ReposatoryLayer\\ReposatoryLayer.csproj|solutionrelative:reposatorylayer\\reposatorylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IGreetingRL.cs",
+              "DocumentMoniker": "C:\\Users\\NIKHIL PRATAP\\Desktop\\training\\pro\\UC1\\ReposatoryLayer\\Interface\\IGreetingRL.cs",
+              "RelativeDocumentMoniker": "ReposatoryLayer\\Interface\\IGreetingRL.cs",
+              "ToolTip": "C:\\Users\\NIKHIL PRATAP\\Desktop\\training\\pro\\UC1\\ReposatoryLayer\\Interface\\IGreetingRL.cs",
+              "RelativeToolTip": "ReposatoryLayer\\Interface\\IGreetingRL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T09:33:06.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReposatoryLayer",
+              "DocumentMoniker": "C:\\Users\\NIKHIL PRATAP\\Desktop\\training\\pro\\UC1\\ReposatoryLayer\\ReposatoryLayer.csproj",
+              "RelativeDocumentMoniker": "ReposatoryLayer\\ReposatoryLayer.csproj",
+              "ToolTip": "C:\\Users\\NIKHIL PRATAP\\Desktop\\training\\pro\\UC1\\ReposatoryLayer\\ReposatoryLayer.csproj",
+              "RelativeToolTip": "ReposatoryLayer\\ReposatoryLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-04T09:33:00.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

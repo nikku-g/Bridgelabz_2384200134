@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NIKHIL PRATAP\\Desktop\\training\\pro\\UC2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{172D23A2-9A13-4BA6-B981-DA089068B4A2}|ModelLayer\\ModelLayer.csproj|c:\\users\\nikhil pratap\\desktop\\training\\pro\\uc2\\modellayer\\model\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172D23A2-9A13-4BA6-B981-DA089068B4A2}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\model\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172D23A2-9A13-4BA6-B981-DA089068B4A2}|ModelLayer\\ModelLayer.csproj|c:\\users\\nikhil pratap\\desktop\\training\\pro\\uc2\\modellayer\\model\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172D23A2-9A13-4BA6-B981-DA089068B4A2}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\model\\requestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766BD1D3-D195-45D3-8F0B-271206A1B563}|HelloGreetingApplication\\HelloGreetingApplication.csproj|c:\\users\\nikhil pratap\\desktop\\training\\pro\\uc2\\hellogreetingapplication\\controllers\\hellogreetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766BD1D3-D195-45D3-8F0B-271206A1B563}|HelloGreetingApplication\\HelloGreetingApplication.csproj|solutionrelative:hellogreetingapplication\\controllers\\hellogreetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766BD1D3-D195-45D3-8F0B-271206A1B563}|HelloGreetingApplication\\HelloGreetingApplication.csproj|c:\\users\\nikhil pratap\\desktop\\training\\pro\\uc2\\hellogreetingapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766BD1D3-D195-45D3-8F0B-271206A1B563}|HelloGreetingApplication\\HelloGreetingApplication.csproj|solutionrelative:hellogreetingapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6872780C-E4BA-42B3-998F-CC5FFA5F57FE}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\nikhil pratap\\desktop\\training\\pro\\uc2\\businesslayer\\service\\greetingbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6872780C-E4BA-42B3-998F-CC5FFA5F57FE}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\service\\greetingbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6872780C-E4BA-42B3-998F-CC5FFA5F57FE}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\nikhil pratap\\desktop\\training\\pro\\uc2\\businesslayer\\interface\\igreetingbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6872780C-E4BA-42B3-998F-CC5FFA5F57FE}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\interface\\igreetingbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\NIKHIL PRATAP\\Desktop\\training\\pro\\UC2\\ModelLayer\\Model\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\Model\\ResponseModel.cs",
+              "ToolTip": "C:\\Users\\NIKHIL PRATAP\\Desktop\\training\\pro\\UC2\\ModelLayer\\Model\\ResponseModel.cs",
+              "RelativeToolTip": "ModelLayer\\Model\\ResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:50:44.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\NIKHIL PRATAP\\Desktop\\training\\pro\\UC2\\ModelLayer\\Model\\RequestModel.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\Model\\RequestModel.cs",
+              "ToolTip": "C:\\Users\\NIKHIL PRATAP\\Desktop\\training\\pro\\UC2\\ModelLayer\\Model\\RequestModel.cs",
+              "RelativeToolTip": "ModelLayer\\Model\\RequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:49:52.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NIKHIL PRATAP\\Desktop\\training\\pro\\UC2\\HelloGreetingApplication\\Program.cs",
+              "RelativeDocumentMoniker": "HelloGreetingApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\NIKHIL PRATAP\\Desktop\\training\\pro\\UC2\\HelloGreetingApplication\\Program.cs",
+              "RelativeToolTip": "HelloGreetingApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:36:28.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HelloGreetingController.cs",
+              "DocumentMoniker": "C:\\Users\\NIKHIL PRATAP\\Desktop\\training\\pro\\UC2\\HelloGreetingApplication\\Controllers\\HelloGreetingController.cs",
+              "RelativeDocumentMoniker": "HelloGreetingApplication\\Controllers\\HelloGreetingController.cs",
+              "ToolTip": "C:\\Users\\NIKHIL PRATAP\\Desktop\\training\\pro\\UC2\\HelloGreetingApplication\\Controllers\\HelloGreetingController.cs",
+              "RelativeToolTip": "HelloGreetingApplication\\Controllers\\HelloGreetingController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:29:43.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GreetingBL.cs",
+              "DocumentMoniker": "C:\\Users\\NIKHIL PRATAP\\Desktop\\training\\pro\\UC2\\BusinessLayer\\Service\\GreetingBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Service\\GreetingBL.cs",
+              "ToolTip": "C:\\Users\\NIKHIL PRATAP\\Desktop\\training\\pro\\UC2\\BusinessLayer\\Service\\GreetingBL.cs",
+              "RelativeToolTip": "BusinessLayer\\Service\\GreetingBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:28:31.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IGreetingBL.cs",
+              "DocumentMoniker": "C:\\Users\\NIKHIL PRATAP\\Desktop\\training\\pro\\UC2\\BusinessLayer\\Interface\\IGreetingBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Interface\\IGreetingBL.cs",
+              "ToolTip": "C:\\Users\\NIKHIL PRATAP\\Desktop\\training\\pro\\UC2\\BusinessLayer\\Interface\\IGreetingBL.cs",
+              "RelativeToolTip": "BusinessLayer\\Interface\\IGreetingBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:28:04.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
